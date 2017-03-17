@@ -1,7 +1,7 @@
 {
   "name": "conjure-up.io",
   "version": "1.0.0",
-  "description": "Conjure-up lets you summon up a big-software stack as a 'spell' — a model of the stack, combined with extra know-how to get you from an installed stack to a fully usable one.",
+  "description": "Deplyments so easy it's almost magical.",
   "main": "index.js",
   "scripts": {
     "help": "gulp help",
@@ -47,6 +47,6 @@
     "uglify-js": "^2.8.10"
   },
   "dependencies": {
-    "vanilla-brochure-theme": "0.0.3"
+    "vanilla-brochure-theme": "1.0.1"
   }
 }
